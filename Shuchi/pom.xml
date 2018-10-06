@@ -12,7 +12,7 @@
  
  </repository>
 
-    <repository>
+    <repository> 
       <id>codelds</id>
       <url>https://code.lds.org/nexus/content/groups/main-repo</url>
     </repository>
